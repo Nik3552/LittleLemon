@@ -25,4 +25,4 @@ class Menu(models.Model):
         db_table = "Menu"
 
     def __str__(self):
-        return self.Title
+        return f"{self.Title} : {str(self.Price)}"
