@@ -1,4 +1,4 @@
 # LittleLemon
 
-restaurant/menu/
+restaurant/menu/  
 restaurant/booking/tables/
